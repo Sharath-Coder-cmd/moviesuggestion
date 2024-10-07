@@ -1,0 +1,24 @@
+
+#movie_details
+{
+    font-weight: bold;
+    padding: 2px;
+    background:rgba(43, 42, 42, 0.469);
+   padding: 1rem;
+   backdrop-filter: blur(5px);
+   width: 450px;
+   min-height: 450px;
+   max-height: 500px;
+   margin-top: 40px;
+   border-radius: 15px;
+   display: flex;
+   flex-direction: column;
+  justify-content:flex-start;
+  cursor: pointer;
+}
+#poster-1{
+    transition: none
+}
+#poster-1:hover{
+    transform: none;
+}
